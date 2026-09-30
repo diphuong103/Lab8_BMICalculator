@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Lab 8 BMI Calculator",
+    "slug": "lab8-bmi-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark"
+  }
+}

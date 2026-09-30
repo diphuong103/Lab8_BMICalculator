@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native build output
+/android/
+/ios/
+**/.gradle/
+**/build/
+/android/local.properties
+/ios/Flutter/Generated.xcconfig
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+**/.flutter-plugins-dependencies
+**/coverage/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+npm-debug.*
+yarn-debug.*
+yarn-error.*
